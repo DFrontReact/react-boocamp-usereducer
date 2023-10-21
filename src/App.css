@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.reset {
+    width: 15%;
+    padding: .3rem;
+    letter-spacing: 0;
+    background-color: rgb(255, 166, 2);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.reset:hover{
+    letter-spacing: 5px;
+}
+
+
